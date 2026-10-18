@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Error-127/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/Error-127/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Error-127/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0118-pascals-triangle](https://github.com/Error-127/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0169-majority-element](https://github.com/Error-127/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Error-127/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Error-127/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -90,4 +91,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Error-127/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0118-pascals-triangle](https://github.com/Error-127/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 <!---LeetCode Topics End-->
