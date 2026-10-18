@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Error-127/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Error-127/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Error-127/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Error-127/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Error-127/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -20,6 +21,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Error-127/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Error-127/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Error-127/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Error-127/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -37,6 +39,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Error-127/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Error-127/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Error-127/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Math
@@ -63,4 +66,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Error-127/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Error-127/LeetCode/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Error-127/LeetCode/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Error-127/LeetCode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
