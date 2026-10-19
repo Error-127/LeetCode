@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/Error-127/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Error-127/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Error-127/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Error-127/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Error-127/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Error-127/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Error-127/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -45,6 +46,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Error-127/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Error-127/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Error-127/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Error-127/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -63,6 +65,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Error-127/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Error-127/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
