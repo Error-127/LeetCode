@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/Error-127/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Error-127/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Error-127/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/Error-127/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Error-127/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Error-127/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Error-127/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -116,6 +117,7 @@
 | [0053-maximum-subarray](https://github.com/Error-127/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/Error-127/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Error-127/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/Error-127/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
