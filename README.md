@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Error-127/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Error-127/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Error-127/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Error-127/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Error-127/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/Error-127/LeetCode/tree/main/0048-rotate-image/) | Medium |
@@ -53,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Error-127/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Error-127/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/Error-127/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Error-127/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Error-127/LeetCode/tree/main/0169-majority-element/) | Easy |
@@ -70,6 +72,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Error-127/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Error-127/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Error-127/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Error-127/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Error-127/LeetCode/tree/main/0075-sort-colors/) | Medium |
