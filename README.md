@@ -122,4 +122,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Error-127/LeetCode/tree/main/0075-sort-colors/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Error-127/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 <!---LeetCode Topics End-->
