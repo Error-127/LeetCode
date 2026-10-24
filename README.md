@@ -75,6 +75,7 @@
 | [0048-rotate-image](https://github.com/Error-127/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/Error-127/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Error-127/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Error-127/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Error-127/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -143,5 +144,6 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2409-count-days-spent-together](https://github.com/Error-127/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Error-127/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 <!---LeetCode Topics End-->
