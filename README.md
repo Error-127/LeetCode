@@ -24,6 +24,7 @@
 | [0268-missing-number](https://github.com/Error-127/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Error-127/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Error-127/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/Error-127/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Error-127/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Error-127/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Error-127/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -122,6 +123,7 @@
 | [0048-rotate-image](https://github.com/Error-127/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Error-127/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Error-127/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Error-127/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +148,16 @@
 | ------- | ------- |
 | [2409-count-days-spent-together](https://github.com/Error-127/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Error-127/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Error-127/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Error-127/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Error-127/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 <!---LeetCode Topics End-->
