@@ -31,6 +31,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Error-127/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Error-127/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Error-127/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Error-127/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Error-127/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@
 | [0268-missing-number](https://github.com/Error-127/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Error-127/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Error-127/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Error-127/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@
 | [0054-spiral-matrix](https://github.com/Error-127/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Error-127/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Error-127/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Error-127/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +138,7 @@
 | [0118-pascals-triangle](https://github.com/Error-127/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Error-127/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Error-127/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Error-127/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
