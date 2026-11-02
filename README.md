@@ -23,6 +23,7 @@
 | [0229-majority-element-ii](https://github.com/Error-127/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Error-127/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Error-127/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/Error-127/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Error-127/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/Error-127/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Error-127/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -99,16 +100,19 @@
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Error-127/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Error-127/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Error-127/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Error-127/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Error-127/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Error-127/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/Error-127/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,4 +168,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/Error-127/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Error-127/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Sqrt Decomposition
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Error-127/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
 <!---LeetCode Topics End-->
