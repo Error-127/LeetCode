@@ -32,6 +32,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Error-127/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Error-127/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Error-127/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3479-fruits-into-baskets-iii](https://github.com/Error-127/LeetCode/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Error-127/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Error-127/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Error-127/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -104,6 +105,7 @@
 | [0268-missing-number](https://github.com/Error-127/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Error-127/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Error-127/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3479-fruits-into-baskets-iii](https://github.com/Error-127/LeetCode/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@
 | [0307-range-sum-query-mutable](https://github.com/Error-127/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Error-127/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Error-127/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3479-fruits-into-baskets-iii](https://github.com/Error-127/LeetCode/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,4 +192,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/Error-127/LeetCode/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3479-fruits-into-baskets-iii](https://github.com/Error-127/LeetCode/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 <!---LeetCode Topics End-->
